@@ -1,0 +1,28 @@
+Collecting nbformat
+  Downloading nbformat-5.8.0-py3-none-any.whl (77 kB)
+     ---------------------------------------- 77.4/77.4 kB 1.4 MB/s eta 0:00:00
+Collecting importlib-metadata>=3.6
+  Downloading importlib_metadata-6.7.0-py3-none-any.whl (22 kB)
+Requirement already satisfied: jupyter-core in c:\users\admin\miniconda3\envs\0102\lib\site-packages (from nbformat) (4.11.1)
+Requirement already satisfied: traitlets>=5.1 in c:\users\admin\miniconda3\envs\0102\lib\site-packages (from nbformat) (5.9.0)
+Collecting jsonschema>=2.6
+  Downloading jsonschema-4.17.3-py3-none-any.whl (90 kB)
+     ---------------------------------------- 90.4/90.4 kB 5.0 MB/s eta 0:00:00
+Collecting fastjsonschema
+  Downloading fastjsonschema-2.21.1-py3-none-any.whl (23 kB)
+Collecting zipp>=0.5
+  Downloading zipp-3.15.0-py3-none-any.whl (6.8 kB)
+Requirement already satisfied: typing-extensions>=3.6.4 in c:\users\admin\miniconda3\envs\0102\lib\site-packages (from importlib-metadata>=3.6->nbformat) (4.7.1)
+Collecting pyrsistent!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0
+  Downloading pyrsistent-0.19.3-cp37-cp37m-win_amd64.whl (62 kB)
+     ---------------------------------------- 62.6/62.6 kB 3.3 MB/s eta 0:00:00
+Collecting attrs>=17.4.0
+  Downloading attrs-24.2.0-py3-none-any.whl (63 kB)
+     ---------------------------------------- 63.0/63.0 kB 3.3 MB/s eta 0:00:00
+Collecting pkgutil-resolve-name>=1.3.10
+  Downloading pkgutil_resolve_name-1.3.10-py3-none-any.whl (4.7 kB)
+Collecting importlib-resources>=1.4.0
+  Downloading importlib_resources-5.12.0-py3-none-any.whl (36 kB)
+Requirement already satisfied: pywin32>=1.0 in c:\users\admin\miniconda3\envs\0102\lib\site-packages (from jupyter-core->nbformat) (303)
+Installing collected packages: fastjsonschema, zipp, pyrsistent, pkgutil-resolve-name, importlib-resources, importlib-metadata, attrs, jsonschema, nbformat
+Successfully installed attrs-24.2.0 fastjsonschema-2.21.1 importlib-metadata-6.7.0 importlib-resources-5.12.0 jsonschema-4.17.3 nbformat-5.8.0 pkgutil-resolve-name-1.3.10 pyrsistent-0.19.3 zipp-3.15.0
